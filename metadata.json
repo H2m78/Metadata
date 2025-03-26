@@ -1,0 +1,15 @@
+{
+  "name": "SolanaWhiskers",
+  "symbol": "WHISK",
+  "description": "The First Solana CAT !",
+  "image": "https://raw.githubusercontent.com/H2m78/mon-memecoin/main/logo.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/H2m78/mon-memecoin/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
