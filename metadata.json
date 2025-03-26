@@ -2,12 +2,12 @@
   "name": "SolanaWhiskers",
   "symbol": "WHISK",
   "description": "The First Solana CAT !",
-  "image": "https://raw.githubusercontent.com/H2m78/mon-memecoin/main/logo.png",
+  "image": "https://azure-legal-woodpecker-40.mypinata.cloud/ipfs/bafkreif52viwm2dxee2pirsm37nthngexxb7xwyafu4i7omzkwrr4xjt4e",
   "properties": {
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/H2m78/mon-memecoin/main/logo.png",
+        "uri": "https://azure-legal-woodpecker-40.mypinata.cloud/ipfs/bafkreiel3ax6zxtqnonxofrfaamvzo47egom464hamulwhvuu4wlbaxjfi",
         "type": "image/png"
       }
     ]
